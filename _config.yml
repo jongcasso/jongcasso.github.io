@@ -1,7 +1,7 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+title: 코린이 종카소 TIL
+tagline: '코린이 종카소 TIL'
+description: '초보몽키님의 개발로그에 영감받아 코딩에 공부에 대한 기록을 남기고자 합니다.'
 baseurl: ""
 url: http://jongcasso.github.io
 logo: '/public/logo.png'
@@ -24,16 +24,13 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  name: JEONG JONGYUN
+  description: 종카소(JEONG JONGYUN)
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+#    linkedin:  https://www.linkedin.com/in/lizhihao
+    github:    https://github.com/jongcasso
     # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    email:     mailto:jeongjonguei@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
